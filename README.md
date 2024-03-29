@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alice
+- 🛠️ Full Stack Developer
+- 🏳️‍⚧️ Trans Girl
+- 📅 18y
