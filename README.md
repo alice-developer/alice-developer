@@ -7,7 +7,6 @@
 > Eu sou a **Alice**, tenho **19 anos** e sou uma programadora **Full-Stack** que está a cada dia mais evoluindo na área de tecnologia. Inicie meus estudos por conta própria em 2018 aos meus 13 anos de idade, e hoje sigo com minha paixão por desenvolvimento em geral, principalmente Web!
 
 <div align="center">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=alice-developer&show_icons=true&theme=dracula"/>
     <img width="40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=alice-developer&layout=compact&theme=dracula"/>
 </div>
 
